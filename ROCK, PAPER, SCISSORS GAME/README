@@ -1,0 +1,12 @@
+TASK 3
+ ROCK, PAPER, SCISSORS GAME
+ ● User Input: Prompt users to select rock, paper, or scissors.
+ ● Computer Selection: Randomly generate the computer's choice.
+ ● Game Logic: Determine the winner based on user and computer selections. Rock 
+beats scissors, scissors beat paper, and paper beats rock.
+ ● Display Result: Present user and computer choices. Display outcomes: win, lose, or 
+tie.
+ ● Score Tracking (Optional): Record user and computer scores for multiple rounds.
+ ● Play Again: Ask if users want another round.
+ ● User Interface: Design a user-friendly interface with clear instructions and 
+feedback.
