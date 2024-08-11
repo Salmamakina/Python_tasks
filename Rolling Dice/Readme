@@ -1,0 +1,9 @@
+TASK 5
+ DICE ROLLING SIMULATOR
+ ● Create a simple Python program that simulates rolling dice. Users can specify the 
+number of sides on the dice and the number of rolls. 
+● The program generates random numbers for each roll and displays the results. 
+● It's a quick and fun way to emulate the experience of rolling dice, commonly used 
+in board games or tabletop role-playing games. 
+● The simulator allows users to explore the outcomes of dice rolls without the 
+physical dice.
